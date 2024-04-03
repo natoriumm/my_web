@@ -38,3 +38,18 @@ footer {
 .copyright{
     text-align: center;
 }
+
+/*サイドバー*/
+.sidebar{
+  margin-top: 10px;
+  width: 180px;
+  background-color: rgb(244, 249, 250);
+  box-sizing: border-box;
+  border: 2px solid rgb(220, 245, 247);
+}
+/*サイドバー中身*/
+.icon{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-left: 10px;
+}
